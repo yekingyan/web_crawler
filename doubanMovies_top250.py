@@ -1,6 +1,6 @@
 ﻿#-------------------------------------------------------------------------------
 # Name:        豆瓣电影-top250
-# Created:     05/13/2018
+# Created:     05/15/2018
 # coding:       utf-8
 #-------------------------------------------------------------------------------
 
@@ -16,34 +16,34 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 
 
-#爬取第几页面的数据
+#爬取第几页面的数据,page每25为一页
 def pagedata(page):
-#获得网页数据
+    #获得网页数据
     url = 'https://movie.douban.com/top250?start=%d&filter=' % page
     data = requests.get(url).text
-    s  = etree.HTML(data)
+    s = etree.HTML(data)
 
-    for i in range(0,25):
-        #获取元素的xpath信息，存放在列表
-        rank = s.xpath('//*[@id="content"]/div/div[1]/ol/li/div/div[1]/em/text()')
-        film = s.xpath('//*[@id="content"]/div/div[1]/ol/li/div/div[2]/div[1]/a/span[1]/text()')
-        text = s.xpath('//*[@id="content"]/div/div[1]/ol/li/div/div[2]/div[2]/p[1]/text()')
-        rating = s.xpath('//*[@id="content"]/div/div[1]/ol/li/div/div[2]/div[2]/div/span[2]/text()')
+    #获取元素的xpath信息，存放在列表。网址前面相同的部份,确保获取到列表信息无论多少，仍能在输出时匹配
+    file = s.xpath('//*[@id="content"]/div/div[1]/ol/li/div')
+    for div in file:
+        rank = div.xpath('./div[1]/em/text()')[0]
+        film = div.xpath('./div[2]/div[1]/a/span[1]/text()')[0]
+        text = div.xpath('./div[2]/div[2]/p[1]/text()')[0]
+        rating = div.xpath('./div[2]/div[2]/div/span[2]/text()')[0]
 
-        #处理text的数据，去除空格
-        text[2*i+1] = text[2*i+1].split('\n                            ')
-        text[2 * i] = text[2 * i].split('\n                            ')
+        #处理掉信息前面空格，分割成两部分
+        text = text.split('\n                            ')
 
-        #以打印数据，以中文显示
-        print "top250排名：",rank[i]
-        print "电影名字:",json.dumps(film[i],encoding="utf-8",ensure_ascii=False),
-        print "豆瓣评分：",rating[i]
-        print "资料：",json.dumps(text[2*i:2*i+1],encoding="utf-8",ensure_ascii=False)
+        print u"top250排名：",rank
+        print "电影名字:", json.dumps(film, encoding="utf-8", ensure_ascii=False),
+        print "豆瓣评分：", rating
+        print "资料：", json.dumps(text[1], encoding="utf-8", ensure_ascii=False)#取第2个
         print ''
 
-#获取前10页的数据
+
+#获取前10页的数据，top250
 number = 0
 while number < 11:
-    page = number * 25#每25为一页
+    page = number * 25
     pagedata(page)
     number += 1
