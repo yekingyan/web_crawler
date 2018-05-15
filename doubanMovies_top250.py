@@ -33,11 +33,13 @@ def pagedata(page):
 
         #处理掉信息前面空格，分割成两部分
         text = text.split('\n                            ')
+        text = text[1].split('   ')
 
         print u"top250排名：",rank
         print "电影名字:", json.dumps(film, encoding="utf-8", ensure_ascii=False),
         print "豆瓣评分：", rating
-        print "资料：", json.dumps(text[1], encoding="utf-8", ensure_ascii=False)#取第2个
+        print text[0]
+        print text[1]
         print ''
 
 
