@@ -1,0 +1,1761 @@
+{
+  "1": {
+    "name": "肖申克的救赎",
+    "rating": "9.6",
+    "people": "1115792人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480747492.jpg",
+    "quote": "希望让人自由。"
+  },
+  "2": {
+    "name": "霸王别姬",
+    "rating": "9.5",
+    "people": "814228人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910813120.jpg",
+    "quote": "风华绝代。"
+  },
+  "3": {
+    "name": "这个杀手不太冷",
+    "rating": "9.4",
+    "people": "1034261人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p511118051.jpg",
+    "quote": "怪蜀黍和小萝莉不得不说的故事。"
+  },
+  "4": {
+    "name": "阿甘正传",
+    "rating": "9.4",
+    "people": "881758人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p510876377.jpg",
+    "quote": "一部美国近现代史。"
+  },
+  "5": {
+    "name": "美丽人生",
+    "rating": "9.5",
+    "people": "514656人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p510861873.jpg",
+    "quote": "最美的谎言。"
+  },
+  "6": {
+    "name": "泰坦尼克号",
+    "rating": "9.3",
+    "people": "819883人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457760035.jpg",
+    "quote": "失去的才是永恒的。"
+  },
+  "7": {
+    "name": "千与千寻",
+    "rating": "9.3",
+    "people": "820885人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1606727862.jpg",
+    "quote": "最好的宫崎骏，最好的久石让。"
+  },
+  "8": {
+    "name": "辛德勒的名单",
+    "rating": "9.4",
+    "people": "465702人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+    "quote": "拯救一个人，就是拯救整个世界。"
+  },
+  "9": {
+    "name": "盗梦空间",
+    "rating": "9.3",
+    "people": "908977人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513344864.jpg",
+    "quote": "诺兰给了我们一场无法盗取的梦。"
+  },
+  "10": {
+    "name": "机器人总动员",
+    "rating": "9.3",
+    "people": "599136人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1461851991.jpg",
+    "quote": "小瓦力，大人生。"
+  },
+  "11": {
+    "name": "忠犬八公的故事",
+    "rating": "9.3",
+    "people": "576938人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p524964016.jpg",
+    "quote": "永远都不能忘记你所爱的人。"
+  },
+  "12": {
+    "name": "三傻大闹宝莱坞",
+    "rating": "9.2",
+    "people": "817091人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p579729551.jpg",
+    "quote": "英俊版憨豆，高情商版谢耳朵。"
+  },
+  "13": {
+    "name": "海上钢琴师",
+    "rating": "9.2",
+    "people": "689910人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p511146807.jpg",
+    "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。"
+  },
+  "14": {
+    "name": "放牛班的春天",
+    "rating": "9.2",
+    "people": "553845人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824951.jpg",
+    "quote": "天籁一般的童声，是最接近上帝的存在。"
+  },
+  "15": {
+    "name": "大话西游之大圣娶亲",
+    "rating": "9.2",
+    "people": "608317人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2455050536.jpg",
+    "quote": "一生所爱。"
+  },
+  "16": {
+    "name": "楚门的世界",
+    "rating": "9.1",
+    "people": "583483人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p479682972.jpg",
+    "quote": "如果再也不能见到你，祝你早安，午安，晚安。"
+  },
+  "17": {
+    "name": "教父",
+    "rating": "9.2",
+    "people": "411502人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2190556185.jpg",
+    "quote": "千万不要记恨你的对手，这样会让你失去理智。"
+  },
+  "18": {
+    "name": "龙猫",
+    "rating": "9.1",
+    "people": "506573人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p537668599.jpg",
+    "quote": "人人心中都有个龙猫，童年就永远不会消失。"
+  },
+  "19": {
+    "name": "星际穿越",
+    "rating": "9.2",
+    "people": "605962人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2206088801.jpg",
+    "quote": "爱是一种力量，让我们超越时空感知它的存在。"
+  },
+  "20": {
+    "name": "熔炉",
+    "rating": "9.2",
+    "people": "337181人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+    "quote": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。"
+  },
+  "21": {
+    "name": "无间道",
+    "rating": "9.1",
+    "people": "494801人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2233971046.jpg",
+    "quote": "香港电影史上永不过时的杰作。"
+  },
+  "22": {
+    "name": "触不可及",
+    "rating": "9.2",
+    "people": "441989人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+    "quote": "满满温情的高雅喜剧。"
+  },
+  "23": {
+    "name": "乱世佳人",
+    "rating": "9.2",
+    "people": "316662人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1963126880.jpg",
+    "quote": "Tomorrow is another day."
+  },
+  "24": {
+    "name": "当幸福来敲门",
+    "rating": "9.0",
+    "people": "651997人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1312700744.jpg",
+    "quote": "平民励志片。"
+  },
+  "25": {
+    "name": "怦然心动",
+    "rating": "8.9",
+    "people": "694197人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p663036666.jpg",
+    "quote": "真正的幸福是来自内心深处。"
+  }
+}{
+  "26": {
+    "name": "天堂电影院",
+    "rating": "9.1",
+    "people": "351971人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910901025.jpg",
+    "quote": "那些吻戏，那些青春，都在影院的黑暗里被泪水冲刷得无比清晰。"
+  },
+  "27": {
+    "name": "疯狂动物城",
+    "rating": "9.1",
+    "people": "649288人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2315672647.jpg",
+    "quote": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。"
+  },
+  "28": {
+    "name": "蝙蝠侠：黑暗骑士",
+    "rating": "9.1",
+    "people": "399357人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg",
+    "quote": "无尽的黑暗。"
+  },
+  "29": {
+    "name": "十二怒汉",
+    "rating": "9.4",
+    "people": "202505人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173577632.jpg",
+    "quote": "1957年的理想主义。"
+  },
+  "30": {
+    "name": "鬼子来了",
+    "rating": "9.2",
+    "people": "281450人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1181775734.jpg",
+    "quote": "对敌人的仁慈，就是对自己残忍。"
+  },
+  "31": {
+    "name": "活着",
+    "rating": "9.1",
+    "people": "331590人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2513253791.jpg",
+    "quote": "张艺谋最好的电影。"
+  },
+  "32": {
+    "name": "少年派的奇幻漂流",
+    "rating": "9.0",
+    "people": "679396人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1784592701.jpg",
+    "quote": "瑰丽壮观、无人能及的冒险之旅。"
+  },
+  "33": {
+    "name": "搏击俱乐部",
+    "rating": "9.0",
+    "people": "452028人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910926158.jpg",
+    "quote": "邪恶与平庸蛰伏于同一个母体，在特定的时间互相对峙。"
+  },
+  "34": {
+    "name": "指环王3：王者无敌",
+    "rating": "9.1",
+    "people": "334235人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910825503.jpg",
+    "quote": "史诗的终章。"
+  },
+  "35": {
+    "name": "天空之城",
+    "rating": "9.0",
+    "people": "392076人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg",
+    "quote": "对天空的追逐，永不停止。"
+  },
+  "36": {
+    "name": "飞屋环游记",
+    "rating": "8.9",
+    "people": "593461人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2364094053.jpg",
+    "quote": "最后那些最无聊的事情，才是最值得怀念的。"
+  },
+  "37": {
+    "name": "大话西游之月光宝盒",
+    "rating": "8.9",
+    "people": "489083人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1280323646.jpg",
+    "quote": "旷古烁今。"
+  },
+  "38": {
+    "name": "控方证人",
+    "rating": "9.6",
+    "people": "127777人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1505392928.jpg",
+    "quote": "比利·怀德满分作品。"
+  },
+  "39": {
+    "name": "罗马假日",
+    "rating": "8.9",
+    "people": "452197人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg",
+    "quote": "爱情哪怕只有一天。"
+  },
+  "40": {
+    "name": "窃听风暴",
+    "rating": "9.1",
+    "people": "265951人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1808872109.jpg",
+    "quote": "别样人生。"
+  },
+  "41": {
+    "name": "两杆大烟枪",
+    "rating": "9.1",
+    "people": "311341人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792443418.jpg",
+    "quote": "4个臭皮匠顶个诸葛亮，盖·里奇果然不是盖的。"
+  },
+  "42": {
+    "name": "飞越疯人院",
+    "rating": "9.0",
+    "people": "314804人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792238287.jpg",
+    "quote": "自由万岁。"
+  },
+  "43": {
+    "name": "闻香识女人",
+    "rating": "8.9",
+    "people": "382221人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p925123037.jpg",
+    "quote": "史上最美的探戈。"
+  },
+  "44": {
+    "name": "哈尔的移动城堡",
+    "rating": "8.9",
+    "people": "421383人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2174346180.jpg",
+    "quote": "带着心爱的人在天空飞翔。"
+  },
+  "45": {
+    "name": "辩护人",
+    "rating": "9.2",
+    "people": "260210人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2158166535.jpg",
+    "quote": "电影的现实意义大过电影本身。"
+  },
+  "46": {
+    "name": "摔跤吧！爸爸",
+    "rating": "9.1",
+    "people": "577455人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2457983084.jpg",
+    "quote": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。"
+  },
+  "47": {
+    "name": "V字仇杀队",
+    "rating": "8.8",
+    "people": "495735人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1465235231.jpg",
+    "quote": "一张面具背后的理想与革命。"
+  },
+  "48": {
+    "name": "海豚湾",
+    "rating": "9.3",
+    "people": "206205人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455222172.jpg",
+    "quote": "海豚的微笑，是世界上最高明的伪装。"
+  },
+  "49": {
+    "name": "死亡诗社",
+    "rating": "9.0",
+    "people": "329091人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910824340.jpg",
+    "quote": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。"
+  },
+  "50": {
+    "name": "教父2",
+    "rating": "9.1",
+    "people": "221801人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2194138787.jpg",
+    "quote": "优雅的孤独。"
+  }
+}{
+  "51": {
+    "name": "指环王2：双塔奇兵",
+    "rating": "9.0",
+    "people": "314065人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p909265336.jpg",
+    "quote": "承前启后的史诗篇章。"
+  },
+  "52": {
+    "name": "美丽心灵",
+    "rating": "8.9",
+    "people": "352750人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1665997400.jpg",
+    "quote": "爱是一切逻辑和原由。"
+  },
+  "53": {
+    "name": "指环王1：魔戒再现",
+    "rating": "8.9",
+    "people": "351517人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1354436051.jpg",
+    "quote": "传说的开始。"
+  },
+  "54": {
+    "name": "饮食男女",
+    "rating": "9.1",
+    "people": "240460人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910899751.jpg",
+    "quote": "人生不能像做菜，把所有的料都准备好了才下锅。"
+  },
+  "55": {
+    "name": "情书",
+    "rating": "8.8",
+    "people": "432945人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p449897379.jpg",
+    "quote": "暗恋的极致。"
+  },
+  "56": {
+    "name": "美国往事",
+    "rating": "9.1",
+    "people": "201869人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p477229647.jpg",
+    "quote": "往事如烟，无处祭奠。"
+  },
+  "57": {
+    "name": "狮子王",
+    "rating": "8.9",
+    "people": "329642人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p726659067.jpg",
+    "quote": "动物版《哈姆雷特》。"
+  },
+  "58": {
+    "name": "素媛",
+    "rating": "9.1",
+    "people": "223695人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2118532944.jpg",
+    "quote": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。"
+  },
+  "59": {
+    "name": "钢琴家",
+    "rating": "9.0",
+    "people": "232460人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792484461.jpg",
+    "quote": "音乐能化解仇恨。"
+  },
+  "60": {
+    "name": "小鞋子",
+    "rating": "9.2",
+    "people": "165444人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173580603.jpg",
+    "quote": "奔跑的孩子是天使。"
+  },
+  "61": {
+    "name": "七宗罪",
+    "rating": "8.7",
+    "people": "490601人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p457631605.jpg",
+    "quote": "警察抓小偷，老鼠玩死猫。"
+  },
+  "62": {
+    "name": "天使爱美丽",
+    "rating": "8.7",
+    "people": "546138人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p803896904.jpg",
+    "quote": "法式小清新。"
+  },
+  "63": {
+    "name": "被嫌弃的松子的一生",
+    "rating": "8.9",
+    "people": "344511人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453723669.jpg",
+    "quote": "以戏谑来戏谑戏谑。"
+  },
+  "64": {
+    "name": "致命魔术",
+    "rating": "8.8",
+    "people": "397195人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480383375.jpg",
+    "quote": "孪生蝙蝠侠大战克隆金刚狼。"
+  },
+  "65": {
+    "name": "本杰明·巴顿奇事",
+    "rating": "8.8",
+    "people": "450796人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192535722.jpg",
+    "quote": "在时间之河里感受溺水之苦。"
+  },
+  "66": {
+    "name": "西西里的美丽传说",
+    "rating": "8.8",
+    "people": "414679人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792400696.jpg",
+    "quote": "美丽无罪。"
+  },
+  "67": {
+    "name": "音乐之声",
+    "rating": "8.9",
+    "people": "265622人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p453788577.jpg",
+    "quote": "用音乐化解仇恨，让歌声串起美好。"
+  },
+  "68": {
+    "name": "勇敢的心",
+    "rating": "8.8",
+    "people": "328650人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1374546770.jpg",
+    "quote": "史诗大片的典范。"
+  },
+  "69": {
+    "name": "拯救大兵瑞恩",
+    "rating": "8.9",
+    "people": "280715人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1014542496.jpg",
+    "quote": "美利坚精神输出大片No1."
+  },
+  "70": {
+    "name": "让子弹飞",
+    "rating": "8.7",
+    "people": "731578人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1512562287.jpg",
+    "quote": "你给我翻译翻译，神马叫做TMD的惊喜。"
+  },
+  "71": {
+    "name": "黑客帝国",
+    "rating": "8.8",
+    "people": "327285人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p451926968.jpg",
+    "quote": "视觉革命。"
+  },
+  "72": {
+    "name": "低俗小说",
+    "rating": "8.8",
+    "people": "387624人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910902213.jpg",
+    "quote": "故事的高级讲法。"
+  },
+  "73": {
+    "name": "看不见的客人",
+    "rating": "8.7",
+    "people": "426259人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2498971355.jpg",
+    "quote": "你以为你以为的就是你以为的。"
+  },
+  "74": {
+    "name": "剪刀手爱德华",
+    "rating": "8.7",
+    "people": "551330人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg",
+    "quote": "浪漫忧郁的成人童话。"
+  },
+  "75": {
+    "name": "沉默的羔羊",
+    "rating": "8.7",
+    "people": "402168人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1593414327.jpg",
+    "quote": "安东尼·霍普金斯的顶级表演。"
+  }
+}{
+  "76": {
+    "name": "蝴蝶效应",
+    "rating": "8.7",
+    "people": "437192人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2209066019.jpg",
+    "quote": "人的命运被自己瞬间的抉择改变。"
+  },
+  "77": {
+    "name": "大闹天宫",
+    "rating": "9.3",
+    "people": "123067人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2184505167.jpg",
+    "quote": "经典之作，历久弥新。"
+  },
+  "78": {
+    "name": "入殓师",
+    "rating": "8.8",
+    "people": "350304人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p594972928.jpg",
+    "quote": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。"
+  },
+  "79": {
+    "name": "末代皇帝",
+    "rating": "9.0",
+    "people": "208903人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452088641.jpg",
+    "quote": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。"
+  },
+  "80": {
+    "name": "春光乍泄",
+    "rating": "8.8",
+    "people": "286848人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p465939041.jpg",
+    "quote": "爱情纠缠，男女一致。"
+  },
+  "81": {
+    "name": "心灵捕手",
+    "rating": "8.8",
+    "people": "314584人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p480965695.jpg",
+    "quote": "人生中应该拥有这样的一段豁然开朗。"
+  },
+  "82": {
+    "name": "玛丽和马克思",
+    "rating": "8.9",
+    "people": "253470人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1820615077.jpg",
+    "quote": "你是我最好的朋友，你是我唯一的朋友 。"
+  },
+  "83": {
+    "name": "阳光灿烂的日子",
+    "rating": "8.8",
+    "people": "312973人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p967457079.jpg",
+    "quote": "一场华丽的意淫。"
+  },
+  "84": {
+    "name": "哈利·波特与魔法石",
+    "rating": "8.8",
+    "people": "313122人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p804947166.jpg",
+    "quote": "童话世界的开端。"
+  },
+  "85": {
+    "name": "布达佩斯大饭店",
+    "rating": "8.8",
+    "people": "374589人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2178872593.jpg",
+    "quote": "小清新的故事里注入了大历史的情怀。"
+  },
+  "86": {
+    "name": "幽灵公主",
+    "rating": "8.8",
+    "people": "267557人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1613191025.jpg",
+    "quote": "人与自然的战争史诗。"
+  },
+  "87": {
+    "name": "第六感",
+    "rating": "8.8",
+    "people": "266242人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220184425.jpg",
+    "quote": "深入内心的恐怖，出人意料的结局。"
+  },
+  "88": {
+    "name": "禁闭岛",
+    "rating": "8.7",
+    "people": "414946人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg",
+    "quote": "昔日翩翩少年，今日大腹便便。"
+  },
+  "89": {
+    "name": "重庆森林",
+    "rating": "8.7",
+    "people": "380357人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792381411.jpg",
+    "quote": "寂寞没有期限。"
+  },
+  "90": {
+    "name": "猫鼠游戏",
+    "rating": "8.8",
+    "people": "274625人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg",
+    "quote": "骗子大师和执著警探的你追我跑故事。"
+  },
+  "91": {
+    "name": "狩猎",
+    "rating": "9.0",
+    "people": "154075人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1546987967.jpg",
+    "quote": "人言可畏。"
+  },
+  "92": {
+    "name": "致命ID",
+    "rating": "8.7",
+    "people": "365169人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453720880.jpg",
+    "quote": "最不可能的那个人永远是最可能的。"
+  },
+  "93": {
+    "name": "断背山",
+    "rating": "8.7",
+    "people": "363859人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513535588.jpg",
+    "quote": "每个人心中都有一座断背山。"
+  },
+  "94": {
+    "name": "大鱼",
+    "rating": "8.7",
+    "people": "285731人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p692813374.jpg",
+    "quote": "抱着梦想而活着的人是幸福的，怀抱梦想而死去的人是不朽的。"
+  },
+  "95": {
+    "name": "甜蜜蜜",
+    "rating": "8.8",
+    "people": "258945人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1962839732.jpg",
+    "quote": "相逢只要一瞬间，等待却像是一辈子。"
+  },
+  "96": {
+    "name": "穿条纹睡衣的男孩",
+    "rating": "8.9",
+    "people": "178033人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1473670352.jpg",
+    "quote": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。"
+  },
+  "97": {
+    "name": "射雕英雄传之东成西就",
+    "rating": "8.7",
+    "people": "311919人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1993903133.jpg",
+    "quote": "百看不厌。"
+  },
+  "98": {
+    "name": "加勒比海盗",
+    "rating": "8.6",
+    "people": "397879人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg",
+    "quote": "约翰尼·德普的独角戏。"
+  },
+  "99": {
+    "name": "告白",
+    "rating": "8.7",
+    "people": "386625人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p689520756.jpg",
+    "quote": "没有一人完全善，也没有一人完全恶。"
+  },
+  "100": {
+    "name": "一一",
+    "rating": "8.9",
+    "people": "174986人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2119675128.jpg",
+    "quote": "我们都曾经是一一。"
+  }
+}{
+  "101": {
+    "name": "阳光姐妹淘",
+    "rating": "8.8",
+    "people": "305092人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1374786017.jpg",
+    "quote": "再多各自牛逼的时光，也比不上一起傻逼的岁月。"
+  },
+  "102": {
+    "name": "阿凡达",
+    "rating": "8.6",
+    "people": "599537人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p492458287.jpg",
+    "quote": "绝对意义上的美轮美奂。"
+  },
+  "103": {
+    "name": "摩登时代",
+    "rating": "9.2",
+    "people": "105488人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173707976.jpg",
+    "quote": "大时代中的人生，小人物的悲喜。"
+  },
+  "104": {
+    "name": "上帝之城",
+    "rating": "8.9",
+    "people": "173118人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455677490.jpg",
+    "quote": "被上帝抛弃了的上帝之城。"
+  },
+  "105": {
+    "name": "爱在黎明破晓前",
+    "rating": "8.7",
+    "people": "252228人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452582315.jpg",
+    "quote": "缘分是个连绵词，最美不过一瞬。"
+  },
+  "106": {
+    "name": "消失的爱人",
+    "rating": "8.7",
+    "people": "409936人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221768894.jpg",
+    "quote": "年度最佳date movie。"
+  },
+  "107": {
+    "name": "风之谷",
+    "rating": "8.8",
+    "people": "198849人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1917567652.jpg",
+    "quote": "动画片的圣经。"
+  },
+  "108": {
+    "name": "侧耳倾听",
+    "rating": "8.8",
+    "people": "195152人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456692072.jpg",
+    "quote": "少女情怀总是诗。"
+  },
+  "109": {
+    "name": "爱在日落黄昏时",
+    "rating": "8.8",
+    "people": "223970人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910924055.jpg",
+    "quote": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。"
+  },
+  "110": {
+    "name": "超脱",
+    "rating": "8.8",
+    "people": "199903人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1305562621.jpg",
+    "quote": "穷尽一生，我们要学会的，不过是彼此拥抱。"
+  },
+  "111": {
+    "name": "倩女幽魂",
+    "rating": "8.6",
+    "people": "296719人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2414157745.jpg",
+    "quote": "两张绝世的脸。"
+  },
+  "112": {
+    "name": "恐怖直播",
+    "rating": "8.7",
+    "people": "261234人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2016930906.jpg",
+    "quote": "恐怖分子的“秋菊打官司”。"
+  },
+  "113": {
+    "name": "红辣椒",
+    "rating": "8.9",
+    "people": "156868人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p672363704.jpg",
+    "quote": "梦的勾结。"
+  },
+  "114": {
+    "name": "小森林",
+    "rating": "8.9",
+    "people": "159961人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2221319641.jpg",
+    "quote": "那些静得只能听见呼吸的日子里，你明白孤独即生活。"
+  },
+  "115": {
+    "name": "喜剧之王",
+    "rating": "8.6",
+    "people": "367981人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1043597424.jpg",
+    "quote": "我是一个演员。"
+  },
+  "116": {
+    "name": "菊次郎的夏天",
+    "rating": "8.7",
+    "people": "212971人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p751835224.jpg",
+    "quote": "从没见过那么流氓的温柔，从没见过那么温柔的流氓。"
+  },
+  "117": {
+    "name": "驯龙高手",
+    "rating": "8.7",
+    "people": "325206人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p450042258.jpg",
+    "quote": "和谐的生活离不开摸头与被摸头。"
+  },
+  "118": {
+    "name": "幸福终点站",
+    "rating": "8.7",
+    "people": "251809人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792263736.jpg",
+    "quote": "有时候幸福需要等一等。"
+  },
+  "119": {
+    "name": "萤火虫之墓",
+    "rating": "8.7",
+    "people": "227348人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2237136718.jpg",
+    "quote": "幸福是生生不息，却难以触及的远。"
+  },
+  "120": {
+    "name": "借东西的小人阿莉埃蒂",
+    "rating": "8.7",
+    "people": "244878人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p617533616.jpg",
+    "quote": "曾经的那段美好会沉淀为一辈子的记忆。"
+  },
+  "121": {
+    "name": "神偷奶爸",
+    "rating": "8.5",
+    "people": "435055人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792776858.jpg",
+    "quote": "Mr. I Don't Care其实也有Care的时候。"
+  },
+  "122": {
+    "name": "岁月神偷",
+    "rating": "8.6",
+    "people": "336348人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456666151.jpg",
+    "quote": "岁月流逝，来日可追。"
+  },
+  "123": {
+    "name": "七武士",
+    "rating": "9.2",
+    "people": "87352人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p647099823.jpg",
+    "quote": "时代悲歌。"
+  },
+  "124": {
+    "name": "杀人回忆",
+    "rating": "8.7",
+    "people": "234099人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480225538.jpg",
+    "quote": "关于连环杀人悬案的集体回忆。"
+  },
+  "125": {
+    "name": "喜宴",
+    "rating": "8.8",
+    "people": "157784人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2249048907.jpg",
+    "quote": "中国家庭的喜怒哀乐忍。"
+  }
+}{
+  "126": {
+    "name": "贫民窟的百万富翁",
+    "rating": "8.5",
+    "people": "430265人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2434249040.jpg",
+    "quote": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁"
+  },
+  "127": {
+    "name": "电锯惊魂",
+    "rating": "8.7",
+    "people": "220800人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2163771304.jpg",
+    "quote": "真相就在眼前。"
+  },
+  "128": {
+    "name": "怪兽电力公司",
+    "rating": "8.6",
+    "people": "276435人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2513247938.jpg",
+    "quote": "不要给它起名字，起了名字就有感情了。"
+  },
+  "129": {
+    "name": "谍影重重3",
+    "rating": "8.7",
+    "people": "201260人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792223507.jpg",
+    "quote": "像吃了苏打饼一样干脆的电影。"
+  },
+  "130": {
+    "name": "真爱至上",
+    "rating": "8.5",
+    "people": "346240人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p475600770.jpg",
+    "quote": "爱，是个动词。"
+  },
+  "131": {
+    "name": "东邪西毒",
+    "rating": "8.6",
+    "people": "283218人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1982176012.jpg",
+    "quote": "电影诗。"
+  },
+  "132": {
+    "name": "记忆碎片",
+    "rating": "8.5",
+    "people": "309938人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p641688453.jpg",
+    "quote": "一个针管引发的血案。"
+  },
+  "133": {
+    "name": "黑天鹅",
+    "rating": "8.5",
+    "people": "461033人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p719282906.jpg",
+    "quote": "黑暗之美。"
+  },
+  "134": {
+    "name": "海洋",
+    "rating": "9.0",
+    "people": "105298人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p497010372.jpg",
+    "quote": "大海啊，不全是水。"
+  },
+  "135": {
+    "name": "疯狂原始人",
+    "rating": "8.7",
+    "people": "412515人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1867084027.jpg",
+    "quote": "老少皆宜，这就是好莱坞动画的魅力。"
+  },
+  "136": {
+    "name": "雨人",
+    "rating": "8.6",
+    "people": "228051人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p942376281.jpg",
+    "quote": "生活在自己的世界里，也可以让周围的人显得可笑和渺小。"
+  },
+  "137": {
+    "name": "小森林",
+    "rating": "8.9",
+    "people": "138329人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2215147728.jpg",
+    "quote": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。"
+  },
+  "138": {
+    "name": "卢旺达饭店",
+    "rating": "8.9",
+    "people": "134966人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2159368352.jpg",
+    "quote": "当这个世界闭上双眼，他却敞开了怀抱。"
+  },
+  "139": {
+    "name": "哈利·波特与死亡圣器(下)",
+    "rating": "8.7",
+    "people": "308720人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg",
+    "quote": "10年的完美句点。"
+  },
+  "140": {
+    "name": "英雄本色",
+    "rating": "8.6",
+    "people": "195118人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2504997087.jpg",
+    "quote": "英雄泪短，兄弟情长。"
+  },
+  "141": {
+    "name": "7号房的礼物",
+    "rating": "8.7",
+    "people": "202942人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1816276065.jpg",
+    "quote": "《我是山姆》的《美丽人生》。"
+  },
+  "142": {
+    "name": "萤火之森",
+    "rating": "8.8",
+    "people": "184320人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1272904657.jpg",
+    "quote": "触不到的恋人。"
+  },
+  "143": {
+    "name": "请以你的名字呼唤我",
+    "rating": "8.8",
+    "people": "209027人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505525050.jpg",
+    "quote": "沉醉在电影的情感和视听氛围中无法自拔。"
+  },
+  "144": {
+    "name": "虎口脱险",
+    "rating": "8.9",
+    "people": "117137人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2399597512.jpg",
+    "quote": "永远看不腻的喜剧。"
+  },
+  "145": {
+    "name": "燃情岁月",
+    "rating": "8.7",
+    "people": "160026人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1023654037.jpg",
+    "quote": "传奇，不是每个人都可以拥有。"
+  },
+  "146": {
+    "name": "心迷宫",
+    "rating": "8.6",
+    "people": "207115人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2275298525.jpg",
+    "quote": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。"
+  },
+  "147": {
+    "name": "荒蛮故事",
+    "rating": "8.8",
+    "people": "165619人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2192834364.jpg",
+    "quote": "始于荒诞，止于更荒诞。"
+  },
+  "148": {
+    "name": "傲慢与偏见",
+    "rating": "8.5",
+    "people": "339982人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452005185.jpg",
+    "quote": "爱是摈弃傲慢与偏见之后的曙光。"
+  },
+  "149": {
+    "name": "海边的曼彻斯特",
+    "rating": "8.6",
+    "people": "227894人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2496940327.jpg",
+    "quote": "我们都有权利不与自己的过去和解。"
+  },
+  "150": {
+    "name": "教父3",
+    "rating": "8.8",
+    "people": "148018人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2169664351.jpg",
+    "quote": "任何信念的力量，都无法改变命运。"
+  }
+}{
+  "151": {
+    "name": "超能陆战队",
+    "rating": "8.6",
+    "people": "422470人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2224568669.jpg",
+    "quote": "Balalala~~~"
+  },
+  "152": {
+    "name": "唐伯虎点秋香",
+    "rating": "8.4",
+    "people": "384136人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1946455272.jpg",
+    "quote": "华太师是黄霑，吴镇宇四大才子之一。"
+  },
+  "153": {
+    "name": "纵横四海",
+    "rating": "8.7",
+    "people": "168015人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2272146906.jpg",
+    "quote": "香港浪漫主义警匪动作片的巅峰之作。"
+  },
+  "154": {
+    "name": "恋恋笔记本",
+    "rating": "8.5",
+    "people": "316842人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p483604864.jpg",
+    "quote": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。"
+  },
+  "155": {
+    "name": "完美的世界",
+    "rating": "9.0",
+    "people": "92221人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792403691.jpg",
+    "quote": "坏人的好总是比好人的好来得更感人。"
+  },
+  "156": {
+    "name": "玩具总动员3",
+    "rating": "8.8",
+    "people": "212716人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1283675359.jpg",
+    "quote": "跨度十五年的欢乐与泪水。"
+  },
+  "157": {
+    "name": "蝙蝠侠：黑暗骑士崛起",
+    "rating": "8.6",
+    "people": "327958人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1706428744.jpg",
+    "quote": "诺兰就是保证。"
+  },
+  "158": {
+    "name": "花样年华",
+    "rating": "8.5",
+    "people": "274549人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910828286.jpg",
+    "quote": "偷情本没有这样美。"
+  },
+  "159": {
+    "name": "时空恋旅人",
+    "rating": "8.6",
+    "people": "231137人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2070153774.jpg",
+    "quote": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。"
+  },
+  "160": {
+    "name": "魂断蓝桥",
+    "rating": "8.8",
+    "people": "141123人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2351134499.jpg",
+    "quote": "中国式内在的美国电影。"
+  },
+  "161": {
+    "name": "猜火车",
+    "rating": "8.5",
+    "people": "268795人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p513567548.jpg",
+    "quote": "不可猜的青春迷笛。"
+  },
+  "162": {
+    "name": "穿越时空的少女",
+    "rating": "8.6",
+    "people": "203507人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2079334286.jpg",
+    "quote": "爱上未来的你。"
+  },
+  "163": {
+    "name": "雨中曲",
+    "rating": "9.0",
+    "people": "101751人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1612355875.jpg",
+    "quote": "骨灰级歌舞片。"
+  },
+  "164": {
+    "name": "达拉斯买家俱乐部",
+    "rating": "8.7",
+    "people": "206886人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2166160837.jpg",
+    "quote": "Jared Leto的腿比女人还美！"
+  },
+  "165": {
+    "name": "二十二",
+    "rating": "8.7",
+    "people": "120230人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2457609817.jpg",
+    "quote": "有一些东西不应该被遗忘。"
+  },
+  "166": {
+    "name": "我是山姆",
+    "rating": "8.8",
+    "people": "117383人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p652417775.jpg",
+    "quote": "爱并不需要智商 。"
+  },
+  "167": {
+    "name": "人工智能",
+    "rating": "8.6",
+    "people": "210429人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792257137.jpg",
+    "quote": "对爱的执着，可以超越一切。"
+  },
+  "168": {
+    "name": "冰川时代",
+    "rating": "8.5",
+    "people": "302982人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910895719.jpg",
+    "quote": "松鼠才是角儿。"
+  },
+  "169": {
+    "name": "无人知晓",
+    "rating": "9.1",
+    "people": "80138人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p661160053.jpg",
+    "quote": "我的平常生活就是他人的幸福。"
+  },
+  "170": {
+    "name": "浪潮",
+    "rating": "8.7",
+    "people": "146076人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1344888983.jpg",
+    "quote": "世界离独裁只有五天。"
+  },
+  "171": {
+    "name": "血战钢锯岭",
+    "rating": "8.7",
+    "people": "361637人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2398141939.jpg",
+    "quote": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。"
+  },
+  "172": {
+    "name": "爆裂鼓手",
+    "rating": "8.6",
+    "people": "264778人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2220776342.jpg",
+    "quote": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。"
+  },
+  "173": {
+    "name": "朗读者",
+    "rating": "8.5",
+    "people": "297888人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1140984198.jpg",
+    "quote": "当爱情跨越年龄的界限，它似乎能变得更久远一点，成为一种责任，一种水到渠成的相濡以沫。"
+  },
+  "174": {
+    "name": "香水",
+    "rating": "8.4",
+    "people": "303277人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p470006658.jpg",
+    "quote": "一个单凭体香达到高潮的男人。"
+  },
+  "175": {
+    "name": "罗生门",
+    "rating": "8.7",
+    "people": "140328人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1864872647.jpg",
+    "quote": "人生的N种可能性。"
+  }
+}{
+  "176": {
+    "name": "未麻的部屋",
+    "rating": "8.8",
+    "people": "112055人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1351050722.jpg",
+    "quote": "好的剧本是，就算你猜到了结局也猜不到全部。"
+  },
+  "177": {
+    "name": "阿飞正传",
+    "rating": "8.5",
+    "people": "231603人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525770523.jpg",
+    "quote": "王家卫是一种风格，张国荣是一个代表。"
+  },
+  "178": {
+    "name": "被解救的姜戈",
+    "rating": "8.6",
+    "people": "285278人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1959232369.jpg",
+    "quote": "热血沸腾，那个低俗、性感的无耻混蛋又来了。"
+  },
+  "179": {
+    "name": "可可西里",
+    "rating": "8.7",
+    "people": "142240人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2363208684.jpg",
+    "quote": "坚硬的信仰。"
+  },
+  "180": {
+    "name": "一次别离",
+    "rating": "8.7",
+    "people": "144566人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2189835254.jpg",
+    "quote": "只有有信仰的人才能说出事实真相。"
+  },
+  "181": {
+    "name": "头脑特工队",
+    "rating": "8.7",
+    "people": "259068人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2266293606.jpg",
+    "quote": "愿我们都不用长大，每一座城堡都能永远存在。"
+  },
+  "182": {
+    "name": "恐怖游轮",
+    "rating": "8.4",
+    "people": "364650人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462470694.jpg",
+    "quote": "不要企图在重复中寻找已经失去的爱。"
+  },
+  "183": {
+    "name": "追随",
+    "rating": "8.9",
+    "people": "89898人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1150103377.jpg",
+    "quote": "诺兰的牛逼来源于内心散发出的恐惧。"
+  },
+  "184": {
+    "name": "撞车",
+    "rating": "8.6",
+    "people": "188182人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2075132390.jpg",
+    "quote": "天使与魔鬼的冲撞。"
+  },
+  "185": {
+    "name": "战争之王",
+    "rating": "8.6",
+    "people": "189432人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453719066.jpg",
+    "quote": "做一颗让别人需要你的棋子。"
+  },
+  "186": {
+    "name": "房间",
+    "rating": "8.8",
+    "people": "177589人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2259715855.jpg",
+    "quote": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。"
+  },
+  "187": {
+    "name": "地球上的星星",
+    "rating": "8.8",
+    "people": "95042人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1973489335.jpg",
+    "quote": "天使保护事件始末。"
+  },
+  "188": {
+    "name": "梦之安魂曲",
+    "rating": "8.7",
+    "people": "122089人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p884936202.jpg",
+    "quote": "一场没有春天的噩梦。"
+  },
+  "189": {
+    "name": "牯岭街少年杀人事件",
+    "rating": "8.8",
+    "people": "118794人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p848381236.jpg",
+    "quote": "弱者送给弱者的一刀。"
+  },
+  "190": {
+    "name": "魔女宅急便",
+    "rating": "8.5",
+    "people": "216827人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p456676352.jpg",
+    "quote": "宫崎骏的电影总让人感觉世界是美好的，阳光明媚的。"
+  },
+  "191": {
+    "name": "你的名字。",
+    "rating": "8.4",
+    "people": "546213人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2395733377.jpg",
+    "quote": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。"
+  },
+  "192": {
+    "name": "谍影重重",
+    "rating": "8.5",
+    "people": "210962人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1597183981.jpg",
+    "quote": "哗啦啦啦啦，天在下雨，哗啦啦啦啦，云在哭泣……找自己。"
+  },
+  "193": {
+    "name": "忠犬八公物语",
+    "rating": "9.0",
+    "people": "68928人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2297934945.jpg",
+    "quote": "养狗三日，便会对你终其一生。"
+  },
+  "194": {
+    "name": "模仿游戏",
+    "rating": "8.6",
+    "people": "284329人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2255040492.jpg",
+    "quote": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。"
+  },
+  "195": {
+    "name": "谍影重重2",
+    "rating": "8.6",
+    "people": "175217人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p667644866.jpg",
+    "quote": "谁说王家卫镜头很晃？"
+  },
+  "196": {
+    "name": "一个叫欧维的男人决定去死",
+    "rating": "8.7",
+    "people": "140213人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2406624993.jpg",
+    "quote": "惠及一生的美丽。"
+  },
+  "197": {
+    "name": "青蛇",
+    "rating": "8.4",
+    "people": "245909人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584021784.jpg",
+    "quote": "人生如此，浮生如斯。谁人言，花彼岸，此生情长意短。谁都是不懂爱的罢了。"
+  },
+  "198": {
+    "name": "惊魂记",
+    "rating": "8.9",
+    "people": "93240人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1021883305.jpg",
+    "quote": "故事的反转与反转，分裂电影的始祖。"
+  },
+  "199": {
+    "name": "完美陌生人",
+    "rating": "8.6",
+    "people": "230292人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522331945.jpg",
+    "quote": ""
+  },
+  "200": {
+    "name": "哪吒闹海",
+    "rating": "8.9",
+    "people": "91058人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516566783.jpg",
+    "quote": "想你时你在闹海。"
+  }
+}{
+  "201": {
+    "name": "再次出发之纽约遇见你",
+    "rating": "8.5",
+    "people": "192122人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2250287733.jpg",
+    "quote": "爱我就给我看你的播放列表。"
+  },
+  "202": {
+    "name": "小萝莉的猴神大叔",
+    "rating": "8.5",
+    "people": "185678人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510956726.jpg",
+    "quote": ""
+  },
+  "203": {
+    "name": "东京物语",
+    "rating": "9.2",
+    "people": "57197人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910832390.jpg",
+    "quote": "东京那么大，如果有一天走失了，恐怕一辈子不能再相见。"
+  },
+  "204": {
+    "name": "黑客帝国3：矩阵革命",
+    "rating": "8.5",
+    "people": "173293人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p443461818.jpg",
+    "quote": "不得不说，《黑客帝国》系列是商业片与科幻、哲学完美结合的典范。"
+  },
+  "205": {
+    "name": "源代码",
+    "rating": "8.3",
+    "people": "442383人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p988260245.jpg",
+    "quote": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。"
+  },
+  "206": {
+    "name": "新龙门客栈",
+    "rating": "8.5",
+    "people": "204341人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1421018669.jpg",
+    "quote": "嬉笑怒骂，调风动月。"
+  },
+  "207": {
+    "name": "终结者2：审判日",
+    "rating": "8.6",
+    "people": "154453人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910909085.jpg",
+    "quote": "少见的超越首部的续集，动作片中的经典。"
+  },
+  "208": {
+    "name": "末路狂花",
+    "rating": "8.7",
+    "people": "115100人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p794583044.jpg",
+    "quote": "没有了退路，只好飞向自由。"
+  },
+  "209": {
+    "name": "秒速5厘米",
+    "rating": "8.3",
+    "people": "332388人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p982896012.jpg",
+    "quote": "青春就是放弃和怀念。"
+  },
+  "210": {
+    "name": "碧海蓝天",
+    "rating": "8.7",
+    "people": "113056人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p455722535.jpg",
+    "quote": "在那片深蓝中，感受来自大海的忧伤寂寞与美丽自由。"
+  },
+  "211": {
+    "name": "绿里奇迹",
+    "rating": "8.7",
+    "people": "117126人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg",
+    "quote": "天使暂时离开。"
+  },
+  "212": {
+    "name": "步履不停",
+    "rating": "8.8",
+    "people": "94669人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p672446737.jpg",
+    "quote": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。"
+  },
+  "213": {
+    "name": "这个男人来自地球",
+    "rating": "8.5",
+    "people": "200050人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p513303986.jpg",
+    "quote": "科幻真正的魅力不是视觉效果能取代的。"
+  },
+  "214": {
+    "name": "勇闯夺命岛",
+    "rating": "8.6",
+    "people": "153244人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p636048104.jpg",
+    "quote": "类型片的极致。"
+  },
+  "215": {
+    "name": "城市之光",
+    "rating": "9.2",
+    "people": "49742人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2099815842.jpg",
+    "quote": "永远的小人物，伟大的卓别林。"
+  },
+  "216": {
+    "name": "海盗电台",
+    "rating": "8.6",
+    "people": "175283人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p769608791.jpg",
+    "quote": "生命不止，摇滚不死。"
+  },
+  "217": {
+    "name": "初恋这件小事",
+    "rating": "8.3",
+    "people": "505570人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1505312273.jpg",
+    "quote": "黑小鸭速效美白记。"
+  },
+  "218": {
+    "name": "无耻混蛋",
+    "rating": "8.4",
+    "people": "242452人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p770734475.jpg",
+    "quote": "昆汀同学越来越变态了，比北野武还杜琪峰。"
+  },
+  "219": {
+    "name": "卡萨布兰卡",
+    "rating": "8.6",
+    "people": "135135人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244791866.jpg",
+    "quote": "世界上有那么多女人那么多酒馆，但她偏偏走进我的这家。"
+  },
+  "220": {
+    "name": "海街日记",
+    "rating": "8.7",
+    "people": "151984人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2232247487.jpg",
+    "quote": ""
+  },
+  "221": {
+    "name": "无敌破坏王",
+    "rating": "8.7",
+    "people": "204370人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1735642656.jpg",
+    "quote": "迪士尼和皮克斯拿错剧本的产物。"
+  },
+  "222": {
+    "name": "变脸",
+    "rating": "8.4",
+    "people": "231176人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2173855883.jpg",
+    "quote": "当发哥的风衣、墨镜出现在了凯奇身上⋯⋯"
+  },
+  "223": {
+    "name": "爱在午夜降临前",
+    "rating": "8.8",
+    "people": "129273人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2074715729.jpg",
+    "quote": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。"
+  },
+  "224": {
+    "name": "E.T.",
+    "rating": "8.5",
+    "people": "168228人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p984732992.jpg",
+    "quote": "生病的E.T.皮肤的颜色就像柿子饼。"
+  },
+  "225": {
+    "name": "疯狂的石头",
+    "rating": "8.3",
+    "people": "350796人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p712241453.jpg",
+    "quote": "中国版《两杆大烟枪》。"
+  }
+}{
+  "226": {
+    "name": "发条橙",
+    "rating": "8.5",
+    "people": "200338人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p529908155.jpg",
+    "quote": "我完全康复了。"
+  },
+  "227": {
+    "name": "黄金三镖客",
+    "rating": "9.1",
+    "people": "56803人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2101693489.jpg",
+    "quote": "最棒的西部片。"
+  },
+  "228": {
+    "name": "美国丽人",
+    "rating": "8.5",
+    "people": "200176人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p571671715.jpg",
+    "quote": "每个人的内心都是深不可测的大海。"
+  },
+  "229": {
+    "name": "荒野生存",
+    "rating": "8.6",
+    "people": "137330人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p465687407.jpg",
+    "quote": "出门必备：本草纲目。"
+  },
+  "230": {
+    "name": "迁徙的鸟",
+    "rating": "9.1",
+    "people": "54728人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2238274168.jpg",
+    "quote": "最美的飞翔。"
+  },
+  "231": {
+    "name": "英国病人",
+    "rating": "8.5",
+    "people": "185216人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2408623752.jpg",
+    "quote": "In memory, love lives forever..."
+  },
+  "232": {
+    "name": "彗星来的那一夜",
+    "rating": "8.4",
+    "people": "203976人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2187896711.jpg",
+    "quote": "小成本大魅力。"
+  },
+  "233": {
+    "name": "国王的演讲",
+    "rating": "8.3",
+    "people": "368107人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p768879237.jpg",
+    "quote": "皇上无话儿。"
+  },
+  "234": {
+    "name": "血钻",
+    "rating": "8.5",
+    "people": "146900人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1244017073.jpg",
+    "quote": "每个美丽事物背后都是滴血的现实。"
+  },
+  "235": {
+    "name": "非常嫌疑犯",
+    "rating": "8.6",
+    "people": "126591人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p470383576.jpg",
+    "quote": "我不信仰上帝，但我敬畏上帝。"
+  },
+  "236": {
+    "name": "聚焦",
+    "rating": "8.8",
+    "people": "140984人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2263822658.jpg",
+    "quote": ""
+  },
+  "237": {
+    "name": "燕尾蝶",
+    "rating": "8.6",
+    "people": "113181人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p532195562.jpg",
+    "quote": "现实与童话交相辉映的旅程。"
+  },
+  "238": {
+    "name": "勇士",
+    "rating": "8.9",
+    "people": "93578人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1145536386.jpg",
+    "quote": "热血沸腾，相当完美的娱乐拳击大餐。"
+  },
+  "239": {
+    "name": "穆赫兰道",
+    "rating": "8.3",
+    "people": "252920人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792248233.jpg",
+    "quote": "大卫·林奇的梦境迷宫。"
+  },
+  "240": {
+    "name": "叫我第一名",
+    "rating": "8.6",
+    "people": "116778人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p628364149.jpg",
+    "quote": "乐观比一切都有力量。"
+  },
+  "241": {
+    "name": "遗愿清单",
+    "rating": "8.5",
+    "people": "143786人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p708613284.jpg",
+    "quote": "用剩余不多的时间，去燃烧整个生命。"
+  },
+  "242": {
+    "name": "黑鹰坠落",
+    "rating": "8.6",
+    "people": "128487人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1910900710.jpg",
+    "quote": "还原真实而残酷的战争。"
+  },
+  "243": {
+    "name": "枪火",
+    "rating": "8.6",
+    "people": "108565人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1538646661.jpg",
+    "quote": "一群演技精湛的戏骨，奉献出一个精致的黑帮小品，成就杜琪峰群戏的巅峰之作。"
+  },
+  "244": {
+    "name": "我爱你",
+    "rating": "9.0",
+    "people": "64152人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1075591188.jpg",
+    "quote": "你要相信，这世上真的有爱存在，不管在什么年纪"
+  },
+  "245": {
+    "name": "上帝也疯狂",
+    "rating": "8.6",
+    "people": "102914人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2173719647.jpg",
+    "quote": "纯净原始的笑与感动。"
+  },
+  "246": {
+    "name": "荒岛余生",
+    "rating": "8.5",
+    "people": "147724人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2207673534.jpg",
+    "quote": "一个人的独角戏。"
+  },
+  "247": {
+    "name": "大卫·戈尔的一生",
+    "rating": "8.6",
+    "people": "104015人评价",
+    "img": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2186861098.jpg",
+    "quote": "捍卫人权只是信仰，一点不妨碍其行为的残忍。"
+  },
+  "248": {
+    "name": "千钧一发",
+    "rating": "8.7",
+    "people": "95157人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2195672555.jpg",
+    "quote": "一部能引人思考的科幻励志片。"
+  },
+  "249": {
+    "name": "2001太空漫游",
+    "rating": "8.7",
+    "people": "103755人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792189453.jpg",
+    "quote": "现代科幻电影的开山之作，最伟大导演的最伟大影片。"
+  },
+  "250": {
+    "name": "蓝色大门",
+    "rating": "8.3",
+    "people": "287346人评价",
+    "img": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p584822570.jpg",
+    "quote": "青春的窃窃私语。"
+  }
+}
